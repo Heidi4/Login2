@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="logo_description">Logo Description</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="change_password">Change Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register_prompt">Register</string>
+    <string name="app_logo">App Logo</string>
+    <string name="university_name">App Logo</string>
+    <!-- <string name="app_name">My App</string> -->
+</resources>
+
